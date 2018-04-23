@@ -1,0 +1,4 @@
+#Mon Apr 23 13:43:29 EDT 2018
+base.0=C\:\\Users\\wangy12\\Documents\\Yuchen Wang\\CSSE435\\ME435Competition\\GolfBallDelivery\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex
